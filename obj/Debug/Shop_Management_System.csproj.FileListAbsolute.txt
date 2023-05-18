@@ -1,0 +1,15 @@
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\bin\Debug\Shop_Management_System.exe.config
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\bin\Debug\Shop_Management_System.exe
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\bin\Debug\Shop_Management_System.pdb
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.csproj.AssemblyReference.cache
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.csproj.SuggestedBindingRedirects.cache
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.Login.resources
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.Properties.Resources.resources
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.csproj.GenerateResource.cache
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.csproj.CoreCompileInputs.cache
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.exe
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.pdb
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.ProductForm.resources
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.SellerForm.resources
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.SellingForm.resources
+E:\Everything\All programing\C# programing\Shop_Management_System\Shop_Management_System\obj\Debug\Shop_Management_System.Category.resources
